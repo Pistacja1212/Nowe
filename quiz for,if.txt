@@ -1,0 +1,11 @@
+ for question in questions:
+    print(question)
+    print(answers)
+    x = input('Podaj swoją odpowiedź ')
+    print(x)
+if x == right_answer
+    print("To prawidłowa odpowiedź")
+else
+    print("Niestety prawidłowa odpowiedź to ", right_answer)
+
+https://www.algorytm.edu.pl/python-if-else
